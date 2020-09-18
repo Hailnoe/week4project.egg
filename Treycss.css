@@ -16,8 +16,8 @@ body{
     font-size: 1.5em;
     font-weight: bolder;
     word-break: break-all;
-    width:100px;
-    height:150px;
+    width:107px;
+    height:110px;
     border : 2px solid lightgrey;
     text-align: center;
     cursor: pointer;
@@ -25,6 +25,7 @@ body{
     left:300px;
     top:50px;
     color : lightgrey;
+    background-image: url("img/jessestart.png") ;
 }
 #start:hover{
     border: 3px solid lightseagreen;
